@@ -1,0 +1,6 @@
+C:\Users\h\source\repos\ShootingEx\Debug\ShootingEx.exe
+C:\Users\h\source\repos\ShootingEx\Debug\ShootingEx.pdb
+C:\Users\h\Desktop\ShootingEx\Debug\ShootingEx.exe
+C:\Users\h\Desktop\ShootingEx\Debug\ShootingEx.pdb
+E:\기능경기대회\ShootingEx\Debug\ShootingEx.exe
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\Debug\ShootingEx.exe

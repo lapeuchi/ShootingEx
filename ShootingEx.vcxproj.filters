@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Application">
+      <UniqueIdentifier>{c19c281d-1653-4e4d-863d-94c7dad2ece3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Texture">
+      <UniqueIdentifier>{afe9be4e-3809-416d-a402-ec9ef3d28486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Sprite">
+      <UniqueIdentifier>{364fff5f-7991-489c-be60-715fe45a61c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Loading">
+      <UniqueIdentifier>{96e7e8d7-b69c-4288-a749-d4de930fd1c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\GameScene">
+      <UniqueIdentifier>{f6d53f8b-0502-4a05-a59f-b8e2710631e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Game">
+      <UniqueIdentifier>{ad580f79-68d8-4526-bdf5-200eced97656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Player">
+      <UniqueIdentifier>{647be91b-4b20-42a5-a230-b4f2d6c9159b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Bullets">
+      <UniqueIdentifier>{51d6151d-92cd-4fef-8797-ea4347239e12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Map">
+      <UniqueIdentifier>{e101774b-f8ef-46ee-8e77-3f68e9045d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Enemy">
+      <UniqueIdentifier>{6281ea6b-49c8-44ec-932b-d168f4977c41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Trap">
+      <UniqueIdentifier>{2a674d5f-784c-4b28-b5bf-c50f63708a8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MiniMap">
+      <UniqueIdentifier>{d66df2ba-21e9-4e7d-9f40-45bededec240}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Item">
+      <UniqueIdentifier>{4ace2cb5-1937-40cc-80a1-ed85aff9f491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Effact">
+      <UniqueIdentifier>{81b97f1f-355d-41a0-a026-52659aa7c5ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\UI">
+      <UniqueIdentifier>{403a0511-4c04-4cca-8195-4b192c4d8abc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleTon.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>소스 파일\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>소스 파일\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>소스 파일\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Loading.h">
+      <Filter>소스 파일\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>소스 파일\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>소스 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>소스 파일\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>소스 파일\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>소스 파일\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBullet.h">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="Trap.h">
+      <Filter>소스 파일\Trap</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroScene.h">
+      <Filter>소스 파일\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="EndingScene.h">
+      <Filter>소스 파일\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>소스 파일\Effact</Filter>
+    </ClInclude>
+    <ClInclude Include="Hampo.h">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>소스 파일\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Arra.h">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>소스 파일\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>소스 파일\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Num.h">
+      <Filter>소스 파일\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application.cpp">
+      <Filter>소스 파일\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>소스 파일\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>소스 파일\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Loading.cpp">
+      <Filter>소스 파일\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>소스 파일\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>소스 파일\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>소스 파일\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBullet.cpp">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="Trap.cpp">
+      <Filter>소스 파일\Trap</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroScene.cpp">
+      <Filter>소스 파일\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="EndingScene.cpp">
+      <Filter>소스 파일\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>소스 파일\Effact</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>소스 파일\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Hampo.cpp">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="Arra.cpp">
+      <Filter>소스 파일\Bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>소스 파일\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>소스 파일\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Num.cpp">
+      <Filter>소스 파일\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,40 @@
+﻿  GameScene.cpp
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(64,37): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(64,37): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(82,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(82,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(83,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(83,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(84,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(84,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(85,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(85,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(86,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(86,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(87,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(87,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(88,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(88,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(89,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(89,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(90,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(90,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(91,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(91,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(92,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(92,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(93,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(93,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(94,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(94,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(95,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(95,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(96,67): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(96,52): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(111,63): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(111,48): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(112,60): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(112,48): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(179,35): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\GameScene.cpp(204,11): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'D3DXVECTOR2'입니다.
+  ShootingEx.vcxproj -> C:\Users\hwant\OneDrive\바탕 화면\ShootingEx\Debug\ShootingEx.exe
